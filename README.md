@@ -1,5 +1,7 @@
 # How to get this running
 
+This is a completed front end  coding challenge for https://www.circle.com/en/ frontend coding challenge. Highly reccomend styling it up a bit more than it currently is before submitting it! Go wild.
+
 Make sure you have node > 14.17.0 and yarn > 1.22.1 (but not over 2)
 
 1. From the root directory run `yarn install`
